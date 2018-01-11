@@ -17,7 +17,7 @@ get-data:
 	 jsonforge spreadsheet.yml
 
 
-files:
+site:
 	hugo -t revealjs
 
 cards: $(CARDS)
