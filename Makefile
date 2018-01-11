@@ -17,9 +17,14 @@ get-data:
 	 jsonforge spreadsheet.yml
 
 
+files:
+	hugo -t revealjs
+
 cards: $(CARDS)
 
-content: $(MP3S) $(CARDS) 
+mp3s: $(MP3S)
+
+content: cards mp3s
 
 static/spoken/%.mp3: static/items/%.json
 	export $(CREDENTIALS) ;\
