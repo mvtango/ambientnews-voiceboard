@@ -2,237 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ambient News Voice Board</title>
-    <link>http://192.168.56.101:1313/</link>
+    <link>https://mvtango.github.io/ambientnews-voiceboard/</link>
     <description>Recent content on Ambient News Voice Board</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2018 13:27:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2018 23:41:44 +0100</lastBuildDate>
     
-	<atom:link href="http://192.168.56.101:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvtango.github.io/ambientnews-voiceboard/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blinking</title>
-      <link>http://192.168.56.101:1313/20170109/blinking/</link>
-      <pubDate>Thu, 11 Jan 2018 13:27:10 +0100</pubDate>
-      
-      <guid>http://192.168.56.101:1313/20170109/blinking/</guid>
-      <description> </description>
-    </item>
     
     <item>
       <title>1-top-h-und-m-hans</title>
-      <link>http://192.168.56.101:1313/20170109/top-h-und-m-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-h-und-m-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-hans/</guid>
       <description> Hans Skandal um H&amp;amp;M-Werbung </description>
     </item>
     
     <item>
       <title>1-top-h-und-m-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/top-h-und-m-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-h-und-m-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-marlene/</guid>
       <description> Marlene Skandal um H&amp;amp;M-Werbung </description>
     </item>
     
     <item>
       <title>1-top-h-und-m-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/top-h-und-m-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-h-und-m-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-h-und-m-vicki/</guid>
       <description> Vicki Skandal um H&amp;amp;M-Werbung </description>
     </item>
     
     <item>
       <title>2-top-verkehrstote-hans</title>
-      <link>http://192.168.56.101:1313/20170109/top-verkehrstote-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-verkehrstote-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-hans/</guid>
       <description> Hans 83 Menschen sterben in 2017 auf Schleswig-Holsteins Straßen </description>
     </item>
     
     <item>
       <title>2-top-verkehrstote-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/top-verkehrstote-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-verkehrstote-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-marlene/</guid>
       <description> Marlene 83 Menschen sterben in 2017 auf Schleswig-Holsteins Straßen </description>
     </item>
     
     <item>
       <title>2-top-verkehrstote-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/top-verkehrstote-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-verkehrstote-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-verkehrstote-vicki/</guid>
       <description> Vicki 83 Menschen sterben in 2017 auf Schleswig-Holsteins Straßen </description>
     </item>
     
     <item>
       <title>3-top-g20-krawalle-hans</title>
-      <link>http://192.168.56.101:1313/20170109/top-g20-krawalle-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-g20-krawalle-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-hans/</guid>
       <description> Hans Haft für G20-Flaschenwurf </description>
     </item>
     
     <item>
       <title>3-top-g20-krawalle-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/top-g20-krawalle-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-g20-krawalle-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-marlene/</guid>
       <description> Marlene Haft für G20-Flaschenwurf </description>
     </item>
     
     <item>
       <title>3-top-g20-krawalle-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/top-g20-krawalle-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-g20-krawalle-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-g20-krawalle-vicki/</guid>
       <description> Vicki Haft für G20-Flaschenwurf </description>
     </item>
     
     <item>
       <title>4-top-fahrerflucht-hans</title>
-      <link>http://192.168.56.101:1313/20170109/top-fahrerflucht-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-fahrerflucht-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-hans/</guid>
       <description> Hans Fahrerflucht - alarmierende Statistik aus Schleswig-Holstein </description>
     </item>
     
     <item>
       <title>4-top-fahrerflucht-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/top-fahrerflucht-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-fahrerflucht-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-marlene/</guid>
       <description> Marlene Fahrerflucht - alarmierende Statistik aus Schleswig-Holstein </description>
     </item>
     
     <item>
       <title>4-top-fahrerflucht-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/top-fahrerflucht-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-fahrerflucht-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-fahrerflucht-vicki/</guid>
       <description> Vicki Fahrerflucht - alarmierende Statistik aus Schleswig-Holstein </description>
     </item>
     
     <item>
       <title>5-top-buecherbus-hans</title>
-      <link>http://192.168.56.101:1313/20170109/top-buecherbus-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-buecherbus-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-hans/</guid>
       <description> Hans Tote bei schwerem Unfall mit Bücherbus in Nordfriesland </description>
     </item>
     
     <item>
       <title>5-top-buecherbus-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/top-buecherbus-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-buecherbus-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-marlene/</guid>
       <description> Marlene Tote bei schwerem Unfall mit Bücherbus in Nordfriesland </description>
     </item>
     
     <item>
       <title>5-top-buecherbus-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/top-buecherbus-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/top-buecherbus-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/top-buecherbus-vicki/</guid>
       <description> Vicki Tote bei schwerem Unfall mit Bücherbus in Nordfriesland </description>
     </item>
     
     <item>
       <title>6-flensburg-verbraucherverein-hans</title>
-      <link>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-hans/</guid>
       <description> Hans Verbraucherverein mietfrei ins Eckener-Haus? </description>
     </item>
     
     <item>
       <title>6-flensburg-verbraucherverein-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-marlene/</guid>
       <description> Marlene Verbraucherverein mietfrei ins Eckener-Haus? </description>
     </item>
     
     <item>
       <title>6-flensburg-verbraucherverein-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/flensburg-verbraucherverein-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/flensburg-verbraucherverein-vicki/</guid>
       <description> Vicki Verbraucherverein mietfrei ins Eckener-Haus? </description>
     </item>
     
     <item>
       <title>7-hamburg-hooters-hans</title>
-      <link>http://192.168.56.101:1313/20170109/hamburg-hooters-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/hamburg-hooters-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-hans/</guid>
       <description> Hans Hot Pants und Fast Food - „Hooters“ kommt auf die Reeperbahn </description>
     </item>
     
     <item>
       <title>7-hamburg-hooters-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/hamburg-hooters-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/hamburg-hooters-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-marlene/</guid>
       <description> Marlene Hot Pants und Fast Food - „Hooters“ kommt auf die Reeperbahn </description>
     </item>
     
     <item>
       <title>7-hamburg-hooters-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/hamburg-hooters-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/hamburg-hooters-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/hamburg-hooters-vicki/</guid>
       <description> Vicki Hot Pants und Fast Food - „Hooters“ kommt auf die Reeperbahn </description>
     </item>
     
     <item>
       <title>8-kiel-radarfalle-hans</title>
-      <link>http://192.168.56.101:1313/20170109/kiel-radarfalle-hans/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-hans/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/kiel-radarfalle-hans/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-hans/</guid>
       <description> Hans Vor Schule geblitzt: Mit 68 km/h durch die 30er-Zone </description>
     </item>
     
     <item>
       <title>8-kiel-radarfalle-marlene</title>
-      <link>http://192.168.56.101:1313/20170109/kiel-radarfalle-marlene/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-marlene/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/kiel-radarfalle-marlene/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-marlene/</guid>
       <description> Marlene Vor Schule geblitzt: Mit 68 km/h durch die 30er-Zone </description>
     </item>
     
     <item>
       <title>8-kiel-radarfalle-vicki</title>
-      <link>http://192.168.56.101:1313/20170109/kiel-radarfalle-vicki/</link>
+      <link>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-vicki/</link>
       <pubDate>Tue, 09 Jan 2018 23:41:44 +0100</pubDate>
       
-      <guid>http://192.168.56.101:1313/20170109/kiel-radarfalle-vicki/</guid>
+      <guid>https://mvtango.github.io/ambientnews-voiceboard/20170109/kiel-radarfalle-vicki/</guid>
       <description> Vicki Vor Schule geblitzt: Mit 68 km/h durch die 30er-Zone </description>
     </item>
     
