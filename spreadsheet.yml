@@ -1,0 +1,30 @@
+datasets:
+    - name: feeditems 
+      source: 
+        url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRtbWdlJX_4H2-MH1T_XGTdtnPFHGuO7AumrR5-cEWviE5PTKO1IwdFK4xoR-hGDW69VkZI1y9NKB8m/pub?gid=0&single=true&output=csv"
+        content-type: "text/csv"
+      transform:
+          - JMESPath: >
+              [].{
+                  title: title
+                  teaser: description
+                  filename: join('-',[slugify(feed),slugify(slug),slugify(voice)])
+                  spoken: spoken
+                  feed: feed
+                  voice: voice
+                } 
+
+      output: 
+        name: static/items/{filename}.json
+
+
+    - name: list
+      source: feeditems
+      transform:
+          - JMESPath: >
+              { names: [].filename }
+
+      output:
+          name: data/list.json
+
+

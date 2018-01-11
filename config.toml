@@ -1,0 +1,5 @@
+baseURL = "http://mvtango.github.io/ambientnews-voiceboard/"
+languageCode = "en-us"
+title = "Ambient News Voice Board"
+
+publishDir = "docs"
