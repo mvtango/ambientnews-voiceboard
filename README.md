@@ -10,6 +10,18 @@ Here is the site: https://mvtango.github.io/ambientnews-voiceboard/20170109/
 ![](img/overview.png)
 
 
+## Blinking by yourself
+
+Here you can compose your own blinking patterns:
+
+
+https://mvtango.github.io/ambientnews-voiceboard/blink.html
+
+A pattern looks like this:
+
+https://mvtango.github.io/ambientnews-voiceboard/blink.html?red*0.5,white*1,red*0.5,white*1,white*10
+
+
 ## How to build
 
 This is a static site genrator. It works in three stages:
