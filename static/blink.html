@@ -10,7 +10,7 @@
    }
 
   #bulb {
-      display: inline-block;
+      display: inline-table;
       width: 30%;
       max-width: 400px:
   }
@@ -25,6 +25,7 @@
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.min.js"></script>
 </head>
 <body>
     <div id="background">
@@ -39,14 +40,19 @@
         if (pattern != "") {
             pattern = pattern.substr(1);
         } else  {
-            document.location.search = "?white*2,green*1,white*1,yellow*0.3,white*0.2,yellow*0.3,white*1,purple*0.2,white*0.2,purple*0.2,white*0.2,purple*0.2,white*0.2,white*0.5";
+            document.location.search = "white*2,green*3~1,red*0.1,green*0.1,red*0.1,green*4,white*1~0.5,yellow*0.3~0.1,white*0.2~0.1,yellow*0.3~0.1,white*1~0.1,purple*0.2,white*0.2,purple*0.2,white*0.2,purple*0.2,white*0.2,white*0.5";
         }
 
         var colors = [];
 
         _.each(pattern.split(","),function(a) { 
              b=a.split("*");
-            colors.push({ color: b[0], time: parseFloat(b[1])*1000 }); 
+             if (typeof b[1] != undefined) {
+                c=b[1].split("~");
+            } else { 
+                c=["1","0"]
+            }
+            colors.push({ color: b[0], time: parseFloat(c[0])*1000, transition: parseFloat(c[1])*1000 }); 
         })
 
         window.current=0;
@@ -58,7 +64,7 @@
                 window.current=0;
             }
             /* console.log("now:"+now.color+" current"+current); */
-            $("#bulb").css( { "background-color" : now.color });
+            $("#bulb").transit( { "background-color" : now.color }, now.transition, 'ease');
             window.setTimeout(color_and_wait,now.time);
         }
 
